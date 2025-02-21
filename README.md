@@ -63,8 +63,8 @@ If you found this useful, consider ⭐️ starring this repository! Feel free to
 ---
 
 ## ⚠️ License & Usage Restrictions
-This repository is **strictly for learning and reference purposes**.  
-⛔ **Do not copy, download, or redistribute** my work without permission.  
+ 
+⛔ **This repository is for learning and reference. Please acknowledge and give credit when using or modifying the work. 
 🔒 Every notebook is the result of my **hard work, deep research, and months of effort**.  
 
 > **If you find this useful, feel free to reach out, but please respect my work.** 😊  
