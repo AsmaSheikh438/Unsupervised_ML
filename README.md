@@ -22,14 +22,15 @@ I have built these notebooks from scratch, ensuring every concept is well-resear
 
 | File Name | Description | Link |
 |-----------|------------|------|
-| **APRIORI ALGORITHM.ipynb** | Implements the Apriori algorithm for association rule learning with detailed steps and insights. | [View Notebook](https://github.com/yourusername/repositoryname/blob/main/APRIORI%20ALGORITHM.ipynb) |
-| **Agglomerative Clustering.ipynb** | Hierarchical clustering technique with a dendrogram visualization for better cluster understanding. | [View Notebook](https://github.com/yourusername/repositoryname/blob/main/Agglomerative%20Clustering.ipynb) |
-| **DBSCAN CLUSTERING ALGORITHM.ipynb** | Density-based clustering approach, handling noise and detecting complex cluster structures. | [View Notebook](https://github.com/yourusername/repositoryname/blob/main/DBSCAN%20CLUSTERING%20ALGORITHM.ipynb) |
-| **HIERARCHICAL CLUSTERING.ipynb** | Another hierarchical method with linkage-based clustering and practical implementation. | [View Notebook](https://github.com/yourusername/repositoryname/blob/main/HIERARCHICAL%20CLUSTERING.ipynb) |
-| **K-MEANS CLUSTERING.ipynb** | A detailed exploration of K-Means clustering, with inertia, elbow method, and practical applications. | [View Notebook](https://github.com/yourusername/repositoryname/blob/main/K-MEANS%20CLUSTERING.ipynb) |
-| **MAX VOTING, AVERAGING AND WEIGHTED AVERAGE VOTING.ipynb** | Covers multiple ensemble techniques used in clustering and unsupervised learning. | [View Notebook](https://github.com/yourusername/repositoryname/blob/main/MAX%20VOTING%2C%20AVERAGING%20AND%20WEIGHTED%20AVERAGE%20VOTING.ipynb) |
-| **UNSUPERVISED (ML).ipynb** | A comprehensive guide covering multiple unsupervised ML techniques, theories, and applications. | [View Notebook](https://github.com/yourusername/repositoryname/blob/main/UNSUPERVISED%20(ML).ipynb) |
-| **groceries - groceries.csv** | A dataset used for association rule mining and clustering tasks. | [Download Data](https://github.com/yourusername/repositoryname/blob/main/groceries%20-%20groceries.csv) |
+| **APRIORI ALGORITHM.ipynb** | Implements the Apriori algorithm for association rule learning with detailed steps and insights. | [View Notebook](https://github.com/AsmaSheikh438/real-world-unsupervised-ml/blob/main/APRIORI%20ALGORITHM.ipynb) |
+| **Agglomerative Clustering.ipynb** | Hierarchical clustering technique with a dendrogram visualization for better cluster understanding. | [View Notebook](https://github.com/AsmaSheikh438/real-world-unsupervised-ml/blob/main/Agglomerative%20Clustering.ipynb) |
+| **DBSCAN CLUSTERING ALGORITHM.ipynb** | Density-based clustering approach, handling noise and detecting complex cluster structures. | [View Notebook](https://github.com/AsmaSheikh438/real-world-unsupervised-ml/blob/main/DBSCAN%20CLUSTERING%20ALGORITHM.ipynb) |
+| **HIERARCHICAL CLUSTERING.ipynb** | Another hierarchical method with linkage-based clustering and practical implementation. | [View Notebook](https://github.com/AsmaSheikh438/real-world-unsupervised-ml/blob/main/HIERARCHICAL%20CLUSTERING.ipynb) |
+| **K-MEANS CLUSTERING.ipynb** | A detailed exploration of K-Means clustering, with inertia, elbow method, and practical applications. | [View Notebook](https://github.com/AsmaSheikh438/real-world-unsupervised-ml/blob/main/K-MEANS%20CLUSTERING.ipynb) |
+| **MAX VOTING, AVERAGING AND WEIGHTED AVERAGE VOTING.ipynb** | Covers multiple ensemble techniques used in clustering and unsupervised learning. | [View Notebook](https://github.com/AsmaSheikh438/real-world-unsupervised-ml/blob/main/MAX%20VOTING%2C%20AVERAGING%20AND%20WEIGHTED%20AVERAGE%20VOTING.ipynb) |
+| **UNSUPERVISED (ML).ipynb** | A comprehensive guide covering multiple unsupervised ML techniques, theories, and applications. | [View Notebook](https://github.com/AsmaSheikh438/real-world-unsupervised-ml/blob/main/UNSUPERVISED%20(ML).ipynb) |
+| **groceries - groceries.csv** | A dataset used for association rule mining and clustering tasks. | [Download Data](https://github.com/AsmaSheikh438/real-world-unsupervised-ml/blob/main/groceries%20-%20groceries.csv) |
+
 ---
 
 ## 🛠️ Technologies Used
