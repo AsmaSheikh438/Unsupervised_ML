@@ -1,6 +1,5 @@
 # Unsupervised Machine Learning: Research-Driven Implementation 🚀
 
-![Unsupervised Learning](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Clustering.svg/800px-Clustering.svg.png)
 
 ## 📌 Overview
 This repository is a **deep dive into Unsupervised Machine Learning algorithms**, built with **extensive research and independent model implementation**. Each notebook is **meticulously crafted** to provide **detailed explanations, visualizations, and real-world applications** of clustering techniques and unsupervised learning methods.
@@ -19,17 +18,18 @@ I have worked **tirelessly** on these notebooks, ensuring **no part is copied or
 ## 📂 Repository Structure
 
 ### 📘 Jupyter Notebooks:
-| File Name | Description |
-|-----------|------------|
-| **APRIORI ALGORITHM.ipynb** | Implements the Apriori algorithm for association rule learning with detailed steps and insights. |
-| **Agglomerative Clustering.ipynb** | Hierarchical clustering technique with a dendrogram visualization for better cluster understanding. |
-| **DBSCAN CLUSTERING ALGORITHM.ipynb** | Density-based clustering approach, handling noise and detecting complex cluster structures. |
-| **HIERARCHICAL CLUSTERING.ipynb** | Another hierarchical method with linkage-based clustering and practical implementation. |
-| **K-MEANS CLUSTERING.ipynb** | A detailed exploration of K-Means clustering, with inertia, elbow method, and practical applications. |
-| **MAX VOTING, AVERAGING AND WEIGHTED AVERAGE VOTING.ipynb** | Covers multiple ensemble techniques used in clustering and unsupervised learning. |
-| **UNSUPERVISED (ML).ipynb** | A comprehensive guide covering multiple unsupervised ML techniques, theories, and applications. |
-| **groceries - groceries.csv** | A dataset used for association rule mining and clustering tasks. |
+I have built these notebooks from scratch, ensuring every concept is well-researched and clearly explained. I have not copy-pasted content from anywhere. Each notebook contains detailed visualizations, mathematical explanations, and implementation steps.
 
+| File Name | Description | Link |
+|-----------|------------|------|
+| **APRIORI ALGORITHM.ipynb** | Implements the Apriori algorithm for association rule learning with detailed steps and insights. | [View Notebook](https://github.com/yourusername/repositoryname/blob/main/APRIORI%20ALGORITHM.ipynb) |
+| **Agglomerative Clustering.ipynb** | Hierarchical clustering technique with a dendrogram visualization for better cluster understanding. | [View Notebook](https://github.com/yourusername/repositoryname/blob/main/Agglomerative%20Clustering.ipynb) |
+| **DBSCAN CLUSTERING ALGORITHM.ipynb** | Density-based clustering approach, handling noise and detecting complex cluster structures. | [View Notebook](https://github.com/yourusername/repositoryname/blob/main/DBSCAN%20CLUSTERING%20ALGORITHM.ipynb) |
+| **HIERARCHICAL CLUSTERING.ipynb** | Another hierarchical method with linkage-based clustering and practical implementation. | [View Notebook](https://github.com/yourusername/repositoryname/blob/main/HIERARCHICAL%20CLUSTERING.ipynb) |
+| **K-MEANS CLUSTERING.ipynb** | A detailed exploration of K-Means clustering, with inertia, elbow method, and practical applications. | [View Notebook](https://github.com/yourusername/repositoryname/blob/main/K-MEANS%20CLUSTERING.ipynb) |
+| **MAX VOTING, AVERAGING AND WEIGHTED AVERAGE VOTING.ipynb** | Covers multiple ensemble techniques used in clustering and unsupervised learning. | [View Notebook](https://github.com/yourusername/repositoryname/blob/main/MAX%20VOTING%2C%20AVERAGING%20AND%20WEIGHTED%20AVERAGE%20VOTING.ipynb) |
+| **UNSUPERVISED (ML).ipynb** | A comprehensive guide covering multiple unsupervised ML techniques, theories, and applications. | [View Notebook](https://github.com/yourusername/repositoryname/blob/main/UNSUPERVISED%20(ML).ipynb) |
+| **groceries - groceries.csv** | A dataset used for association rule mining and clustering tasks. | [Download Data](https://github.com/yourusername/repositoryname/blob/main/groceries%20-%20groceries.csv) |
 ---
 
 ## 🛠️ Technologies Used
