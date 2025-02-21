@@ -64,7 +64,7 @@ If you found this useful, consider ⭐️ starring this repository! Feel free to
 
 ## ⚠️ License & Usage Restrictions
  
-⛔ **This repository is for learning and reference. Please acknowledge and give credit when using or modifying the work. 
+⛔ This repository is for learning and reference. **Please acknowledge and give credit when using or modifying the work**. 
 🔒 Every notebook is the result of my **hard work, deep research, and months of effort**.  
 
 > **If you find this useful, feel free to reach out, but please respect my work.** 😊  
